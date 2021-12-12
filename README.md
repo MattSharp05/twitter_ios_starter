@@ -23,5 +23,36 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Launch Screen:
+
+![](https://i.imgur.com/ZcDdxkR.gif)
+
+
+Login Button:
+
+![](https://i.imgur.com/JNMS7Am.gif)
+
+API Authentication:
+
+![](https://i.imgur.com/sWoRkjg.gif)
+
+Pull down to refresh:
+
+![](https://i.imgur.com/OAGBoLe.gif)
+
+Infinite Scroll:
+
+![](https://i.imgur.com/f2mwGFv.gif)
+
+Logout:
+
+![](https://i.imgur.com/VU12ezh.gif)
+
+
+
+
+
+
+
+
 
